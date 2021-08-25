@@ -14,8 +14,6 @@
 
 <div style="display: inline_block"><br>
 
- <h1> Competências <h1>
-
   <img align="center" alt="Re-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
 
   <img align="center" alt="Re-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
