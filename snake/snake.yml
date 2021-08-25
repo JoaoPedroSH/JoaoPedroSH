@@ -1,0 +1,7 @@
+- uses: Platane/snk@master
+
+  with:
+
+    github_user_name: ${{ github.JoaoPedroSH }}
+    
+    svg_out_path: dist/github-snake.svg

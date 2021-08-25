@@ -69,7 +69,6 @@
   
   </a> 
 
-  ![Snake animation](https://github.com/JoaoPedroSH/JoaoPedroSH/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JoaoPedroSH/JoaoPedroSH/snake/snake/dist/github-snake.svg)
 
 </div>
-
