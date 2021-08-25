@@ -2,6 +2,8 @@
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoPedroSH&repo=JoaoPedroSH&countColorcountColor)
 
+<h1> Competências </h1>
+
  <div>
 
   <a href="https://github.com/JoaoPedroSH">
@@ -14,7 +16,7 @@
 
 <hr>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
   <img align="center" alt="Re-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
 
