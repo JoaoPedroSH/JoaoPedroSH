@@ -5,11 +5,9 @@
        <h4> - Organization <h4>
         <h4> - Quality <h4>
         <h4> - Fast Learning; </h4>
-} <h3>
+}; <h3>
 
 </div>
-
-<br>
 
 <div>
 
