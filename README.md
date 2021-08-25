@@ -2,9 +2,11 @@
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoPedroSH&repo=JoaoPedroSH&countColorcountColor)
 
-<div style="display: inline_block">
+<hr>
 
-  <h4> Competências </h4>
+<h3> Skills </h3>
+
+<div style="display: inline_block">
 
   <img align="center" alt="Re-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
 
@@ -34,6 +36,8 @@
 </div>
 
 <hr>
+
+<h3 align="center"> Contacts </h3>
 
 <div>
 
