@@ -12,7 +12,7 @@
 
 <br>
 
-# Competências
+<h1> Competências <h1>
 
 <div style="display: inline_block"><br>
 
