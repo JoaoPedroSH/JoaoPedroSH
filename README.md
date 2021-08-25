@@ -69,6 +69,6 @@
   
   </a> 
 
-  ![Snake animation](https://github.com/JoaoPedroSH/JoaoPedroSH/snake/snake/dist/github-snake.svg)
-
 </div>
+
+![Snake animation](https://github.com/JoaoPedroSH/JoaoPedroSH/snake/snake/dist/github-snake.svg)
