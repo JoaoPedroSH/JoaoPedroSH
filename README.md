@@ -13,11 +13,11 @@
 <div>
 
 <h3> Future Works and Knowledge {  
-    <br>
-    Develop application to help with financial education and investment practices; 
-<br>
-    Learn the node.js language;
-    <br>
+    <br><br>
+        Develop application to help with financial education and investment practices; 
+<br><br>
+        Learn the node.js language;
+    <br><br>
     } <h3>
 
 </div>
