@@ -1,7 +1,5 @@
 # JoaoPedroSH
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoPedroSH&repo=JoaoPedroSH&countColorcountColor)
-
 <hr>
 
 <h3 align="center"> Preferred Programming Languages </h3>
@@ -59,4 +57,9 @@
 
   </a>
 
+ <br>
+
+ ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoPedroSH&repo=JoaoPedroSH&countColorcountColor)
+
 </div>
+
