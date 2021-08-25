@@ -1,22 +1,20 @@
 <div>
 
-  <h2> Strong points <h2>
-
-  <h4> Organization </h4>
-
-  <h4> Quality </h4>
-
-  <h4> Fast Learning </h4>
+<h3> Strong points {
+    <br>
+       <h4> - Organization; <h4>
+        <h4> - Quality; <h4>
+        <h4> Fast Learning </h4>
+} <h3>
 
 </div>
 
 <div>
 
-<h3> Future Works and Knowledge {  
+<h3> Future Works and Knowledge {
     <br>
        <h4> 1 = Develop application to help with financial education and investment practices; <h4>
         <h4> 2= Learn the node.js language; <h4>
-    <br>
 } <h3>
 
 </div>
