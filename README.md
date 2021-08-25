@@ -15,7 +15,6 @@
 <h3> Future Works and Knowledge {  
     <br>
        <h4> 1 = Develop application to help with financial education and investment practices; <h4>
-    <br>
         <h4> 2= Learn the node.js language; <h4>
     <br>
 } <h3>
