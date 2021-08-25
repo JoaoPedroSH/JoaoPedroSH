@@ -12,7 +12,13 @@
 
 <div>
 
-<h3> Future Works and Knowledge {  FWK1 = Develop application to help with financial education and investment practices; FWK2 = Learn the node.js language } <h3>
+<h3> Future Works and Knowledge {  
+    <br>
+    Develop application to help with financial education and investment practices; 
+<br>
+    Learn the node.js language;
+    <br>
+    } <h3>
 
 </div>
 
