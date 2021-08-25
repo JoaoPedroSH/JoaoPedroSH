@@ -70,5 +70,3 @@
   </a> 
 
 </div>
-
-![Snake animation](https://github.com/JoaoPedroSH/JoaoPedroSH/blob/output/github-contribution-grid-snake.svg)
