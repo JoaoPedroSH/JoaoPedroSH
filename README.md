@@ -39,7 +39,7 @@
 
 <h3 align="center"> Contacts </h3>
 
-<div>
+<div align="center">
 
   <a href="https://wa.me/+5594992927891" alt="WhatsApp" target="_blank">
 
