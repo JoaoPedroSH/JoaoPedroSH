@@ -57,11 +57,15 @@
 
   </a>
 
-  <a href="https://instagram.com/joaopedrosh_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://instagram.com/joaopedrosh_" target="_blank">
+  
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white">
   
   </a>
 
-  <a href="https://discord.com/channels/880199805345861722/880199805345861726" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  <a href="https://discord.com/channels/880199805345861722/880199805345861726" target="_blank">
+  
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white">
   
   </a> 
 
