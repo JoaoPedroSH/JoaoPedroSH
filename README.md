@@ -1,5 +1,7 @@
 # JoaoPedroSH
 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoPedroSH&repo=JoaoPedroSH&countColorcountColor)
+
  <div>
 
   <a href="https://github.com/JoaoPedroSH">
@@ -10,7 +12,7 @@
 
 </div>
 
-<br>
+<hr>
 
 <div style="display: inline_block"><br>
 
@@ -28,6 +30,8 @@
   <img align="center" alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
+
+<hr>
 
 <div>
 
