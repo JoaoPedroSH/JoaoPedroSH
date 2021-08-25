@@ -50,3 +50,21 @@
   </a>
 
 </div>
+
+<div>
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=Java&logoColor=007396)
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Java&logoColor=007396)
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=Java&logoColor=007396)
+
+![JavaScript](https://img.shields.io/badge/-Java%20Script-333333?style=flat&logo=spring-boot)
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=Java&logoColor=007396)
+
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=Java&logoColor=007396)
+
+</div>
