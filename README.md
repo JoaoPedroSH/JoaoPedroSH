@@ -1,5 +1,11 @@
-# JoaoPedroSH
+<h2> Strong points <h2>
+  <p> Organization </p>
+  <p> Quality </p>
+  <p> Fast Learning </p>
 
+<h2> Future Works and Knowledge <h2>
+  <p> Develop application to help with financial education and investment practices </p>
+  <p> Learn the node.js language </p>
 <hr>
 
 <h3 align="center"> Preferred Programming Languages </h3>
