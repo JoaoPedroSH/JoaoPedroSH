@@ -58,7 +58,8 @@
   </a>
 
  <br>
-
+ 
+ <hr>
  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JoaoPedroSH&repo=JoaoPedroSH&countColorcountColor)
 
 </div>
