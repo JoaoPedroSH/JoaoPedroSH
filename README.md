@@ -1,11 +1,25 @@
-<h2> Strong points <h2>
+<div>
+
+  <h2> Strong points <h2>
+
   <h4> Organization </h4>
+
   <h4> Quality </h4>
+
   <h4> Fast Learning </h4>
 
+</div>
+
+<div>
+
 <h2> Future Works and Knowledge <h2>
-  <p> - Develop application to help with financial education and investment practices </p>
-  <p> - Learn the node.js language </p>
+
+<h4> - Develop application to help with financial education and investment practices </h4>
+
+<h4> - Learn the node.js language </h4>
+
+</div>
+
 <hr>
 
 <h3 align="center"> Preferred Programming Languages </h3>
