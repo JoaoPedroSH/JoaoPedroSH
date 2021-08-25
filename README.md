@@ -28,3 +28,25 @@
   <img align="center" alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
+
+<div>
+
+  <a href="https://wa.me/+5594992927891" alt="WhatsApp" target="_blank">
+
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5594992927891"/>
+
+  </a>
+
+  <a href="https://www.linkedin.com/in/joão-pedro-pereira-lima-1b648a1b9/" alt="linkedin" target="_blank">
+
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+  </a>
+
+  <a href="mailto:joaopedro.shalom27@gmail.com" alt="gmail" target="_blank">
+
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:joaopedro.shalom27@gmail.com" />
+
+  </a>
+
+</div>
