@@ -13,12 +13,12 @@
 <div>
 
 <h3> Future Works and Knowledge {  
-    <br><br>
+    <br>
        <h4> 1 = Develop application to help with financial education and investment practices; <h4>
-<br><br>
+    <br>
         <h4> 2= Learn the node.js language; <h4>
-    <br><br>
-    } <h3>
+    <br>
+} <h3>
 
 </div>
 
