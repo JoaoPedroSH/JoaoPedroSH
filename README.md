@@ -1,9 +1,7 @@
 <html>
 <div>
-
-<h3> 
     
-    <em> Competências <em>
+   <h2> <em> Competências <em> </h2>
     
     <br>
     
@@ -12,8 +10,6 @@
         <h4> - Trabalho em Equipe <h4>
             
         <h4> - Rápida Aprendizagem </h4>
-            
-<h3>
 
 </div>
 
