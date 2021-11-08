@@ -1,13 +1,13 @@
 <html>
 <div>
     
-   <h2> <em> Competências </em> </h2>
+   <h2 style="text-align: center;"> <em> Competências </em> </h2>
     
-       <h4> - Organização
+        - Organização
            
         - Trabalho em Equipe
             
-           - Rápida Aprendizagem </h4>
+           - Rápida Aprendizagem
 
 </div>
 
