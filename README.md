@@ -3,7 +3,7 @@
     
    <h2> <em> Competências </em> </h2>
     
-        - Organização
+        - Organização 🗃
            
         - Trabalho em Equipe
             
