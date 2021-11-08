@@ -1,27 +1,24 @@
 <div>
 
-<h3> Strong points {
+<h3> 
+    
+    <em> Competências <em>
+    
     <br>
-       <h4> - Organization <h4>
-        <h4> - Quality <h4>
-        <h4> - Fast Learning; </h4>
-}; <h3>
-
-</div>
-
-<div>
-
-<h3> Future Works and Knowledge {
-    <br>
-       <h4> 1 = Develop application to help with financial education and investment practices <h4>
-        <h4> 2= Learn the node.js language <h4>
-}; <h3>
+    
+       <h4> - Organização <h4>
+           
+        <h4> - Trabalho em Equipe <h4>
+            
+        <h4> - Rápida Aprendizagem </h4>
+            
+<h3>
 
 </div>
 
 <hr>
 
-<h3 align="center"> Preferred Programming Languages </h3>
+<h3 align="center"> Entendimento das Seguintes Linguagens </h3>
 
 <div style="display: inline_block" align="center">
 
@@ -29,13 +26,10 @@
 
   <img alt="Re-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 
-  <img alt="Re-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img alt="Re-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
   <img alt="Re-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img alt="Re-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    
   <img alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
