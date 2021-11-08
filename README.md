@@ -3,11 +3,11 @@
     
    <h2> <em> Competências </em> </h2>
     
-        - Organização 🗃
+       <h4> - Organização
            
         - Trabalho em Equipe
             
-        - Rápida Aprendizagem
+           - Rápida Aprendizagem </h4>
 
 </div>
 
