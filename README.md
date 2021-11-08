@@ -1,9 +1,7 @@
 <html>
 <div>
     
-   <h2> <em> Competências <em> </h2>
-    
-    <br>
+   <h2> <em> Competências </em> </h2>
     
         - Organização
            
