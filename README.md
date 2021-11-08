@@ -5,11 +5,11 @@
     
     <br>
     
-       <h4> - Organização <h4>
+        - Organização
            
-        <h4> - Trabalho em Equipe <h4>
+        - Trabalho em Equipe
             
-        <h4> - Rápida Aprendizagem </h4>
+        - Rápida Aprendizagem
 
 </div>
 
