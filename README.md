@@ -2,12 +2,6 @@
 <div>
     
    <h2 align="center"> <em> Competências </em> </h2>
-    
-        - Organização
-           
-        - Trabalho em Equipe
-            
-        - Rápida Aprendizagem
 
 </div>
 
