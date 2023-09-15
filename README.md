@@ -67,11 +67,5 @@
   
   </a>
 
-  <a href="https://discord.com/channels/880199805345861722/880199805345861726" target="_blank">
-  
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white">
-  
-  </a> 
-
 </div>
 </html>
