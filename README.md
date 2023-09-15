@@ -39,7 +39,7 @@
 
 <hr>
 
-<h3 align="center"> Contato </h3>
+<h3 align="center"> Contatos </h3>
 
 <div align="center">
 
