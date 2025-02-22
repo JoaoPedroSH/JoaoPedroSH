@@ -5,28 +5,6 @@
 
 </div>
 
-<hr>
-
-<div style="display: inline_block" align="center">
-
-  <img alt="Re-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  
-  <img alt="Re-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    
-  <img alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img alt="Re-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
-  <img alt="Re-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-
-  <img alt="Re-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-
-  <img alt="Re-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-
-  <img alt="Re-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  
-</div>
-
 <br>
 
 <div align="center">
@@ -37,17 +15,9 @@
 
 </div>
 
-<hr>
-
 <h3 align="center"> Contatos </h3>
 
 <div align="center">
-
-  <a href="https://wa.me/+5594992927891" alt="WhatsApp" target="_blank">
-
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5594992927891"/>
-
-  </a>
 
   <a href="https://www.linkedin.com/in/joão-pedro-pereira-lima-1b648a1b9/" alt="linkedin" target="_blank">
 
@@ -59,12 +29,6 @@
 
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:joaopedro.shalom27@gmail.com" />
 
-  </a>
-
-  <a href="https://instagram.com/joaopedrosh_" target="_blank">
-  
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white">
-  
   </a>
 
 </div>
